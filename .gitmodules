@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CFtime"]
+	path = CFtime
+	url = https://github.com/r-cf/cftime
+[submodule "ncdfCF"]
+	path = ncdfCF
+	url = https://github.com/r-cf/ncdfcf
