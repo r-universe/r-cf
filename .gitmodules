@@ -8,3 +8,6 @@
 [submodule "ncdfCF"]
 	path = ncdfCF
 	url = https://github.com/r-cf/ncdfcf
+[submodule "zarr"]
+	path = zarr
+	url = https://github.com/r-cf/zarr
